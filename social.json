@@ -1,0 +1,17 @@
+{
+    "data":[
+        {
+            "red":"facebook",
+            "image": "facebook.png"
+        },{
+            "red":"instagram",
+            "image": "instagram.png"
+         },{
+            "red":"youtube",
+            "image": "youtube.png"
+         },{
+            "red":"vine",
+            "image": "vine.png"
+         }
+    ]
+}
